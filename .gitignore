@@ -3,3 +3,4 @@
 .xml
 .terraform
 /terraform/terraform.*
+.idea
